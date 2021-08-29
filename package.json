@@ -1,0 +1,58 @@
+{
+  "name": "termux-wabot",
+  "version": "0.0.2",
+  "description": "No comment",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "FG98",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1",
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.0",
+    "emoji-api": "^1.0.2",
+    "encodeurl": "^1.0.2",
+    "escape-string-regexp": "^4.0.0",
+    "fake-useragent": "^1.0.1",
+    "file-type": "^16.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "got": "^11.8.2",
+    "g-i-s": "^2.1.6",
+    "image-to-base64": "^2.1.1",
+    "imgbb-uploader": "^1.3.3",
+    "jsdom": "^16.5.2",
+    "lolis.life": "^4.0.0",
+    "moment-timezone": "^0.5.32",
+    "multistream": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "qs": "^6.10.1",
+    "remove.bg": "^1.3.0",
+    "request": "^2.81.0",
+    "spinnies": "^0.5.1",
+    "ms": "^2.1.3",
+    "tiktok-scraper": "^1.4.7", 
+    "yt-search": "^2.7.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FG98F"
+  },
+  "bugs": {
+    "url": "https://github.com/FG98F/fgbotv3"
+  },
+  "homepage": "https://github.com/FG98F/fgbotv3#readme"
+}
